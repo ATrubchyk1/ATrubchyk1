@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codewars.com/users/Intrepid23">
-    <img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" alt="Codewars Badge"/>
   </a>
   <a href="t.me/IntrepiD2349">
-    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
 </div>
 <br>
